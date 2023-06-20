@@ -1,6 +1,6 @@
 
 
-## Serviços de NLP nas nuvens AWS e Google Cloud Platform
+## Serviços de NLP nas nuvens AWS 
 Amazon Web Services (AWS)
 A AWS oferece diversos serviços de NLP. Abaixo listamos alguns dos serviços e exemplos de aplicação de cada um deles:
 
